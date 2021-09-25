@@ -1,13 +1,13 @@
 /* Root */
 html, body {
     font-family: 'Poppins', sans-serif;
-    scroll-snap-type: y proximity;
+    /* scroll-snap-type: y proximity; */
 }
 
 /* Common */
 
 .container {
-    scroll-snap-align: start;
+    /* scroll-snap-align: start; */
 }
 .parallax {
     transform-style: preserve-3d;
