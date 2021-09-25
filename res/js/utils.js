@@ -30,8 +30,10 @@ $('#year').text(new Date().getFullYear());
 
 images.forEach((image) => {
     let template = `<div data-aos="zoom-out-down" class="w-full rounded-xl cursor-pointer">
-                        <img class="rounded-xl" src="res/images/${image.uri}" alt="${image.name}" title="${image.desc}">
-                    </div>`;
+                        <a href="res/images/${image.uri}" data-lightbox="${image.name}" data-title="${image.desc}"> 
+                            <img class="rounded-xl" src="res/images/${image.uri}" alt="${image.name}" title="${image.desc}">
+                        </a>
+                        </div>`;
 
     $('#gallery').append(template);
 });
