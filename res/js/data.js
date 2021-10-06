@@ -1,27 +1,37 @@
 const images = [
     {
         name: 'Example',
-        uri: 'minion.jpg',
+        uri: 's1.jpg',
         desc: 'Lorem ipsum dolor sit amet.',
     },
     {
         name: 'Example',
-        uri: 'minion.jpg',
+        uri: 's2.jpg',
         desc: 'Lorem ipsum dolor sit amet.',
     },
     {
         name: 'Example',
-        uri: 'minion.jpg',
+        uri: 's3.jpg',
         desc: 'Lorem ipsum dolor sit amet.',
     },
     {
         name: 'Example',
-        uri: 'minion.jpg',
+        uri: 's4.jpg',
         desc: 'Lorem ipsum dolor sit amet.',
     },
     {
         name: 'Example',
-        uri: 'minion.jpg',
+        uri: 's5.jpg',
+        desc: 'Lorem ipsum dolor sit amet.',
+    },
+    {
+        name: 'Example',
+        uri: 's6.jpg',
+        desc: 'Lorem ipsum dolor sit amet.',
+    },
+    {
+        name: 'Example',
+        uri: 's7.jpg',
         desc: 'Lorem ipsum dolor sit amet.',
     },
 ];
