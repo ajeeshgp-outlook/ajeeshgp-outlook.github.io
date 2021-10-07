@@ -1,65 +1,45 @@
 const images = [
     {
-        name: 'Example',
+        name: 'Image1',
         uri: 's1.jpg',
-        desc: 'Lorem ipsum dolor sit amet.',
+        desc: 'Image1',
     },
     {
-        name: 'Example',
+        name: 'Image2',
         uri: 's2.jpg',
-        desc: 'Lorem ipsum dolor sit amet.',
+        desc: 'Image2',
     },
     {
-        name: 'Example',
+        name: 'Image3',
         uri: 's3.jpg',
-        desc: 'Lorem ipsum dolor sit amet.',
+        desc: 'Image3',
     },
     {
-        name: 'Example',
+        name: 'Image4',
         uri: 's4.jpg',
-        desc: 'Lorem ipsum dolor sit amet.',
+        desc: 'Image4',
     },
     {
-        name: 'Example',
+        name: 'Image5',
         uri: 's5.jpg',
-        desc: 'Lorem ipsum dolor sit amet.',
+        desc: 'Image5.',
     },
     {
-        name: 'Example',
+        name: 'Image6',
         uri: 's6.jpg',
-        desc: 'Lorem ipsum dolor sit amet.',
+        desc: 'Image6.',
     },
     {
-        name: 'Example',
+        name: 'Image7',
         uri: 's7.jpg',
-        desc: 'Lorem ipsum dolor sit amet.',
+        desc: 'Image7',
     },
 ];
 
 const videos = [
     {
-        name: 'Example',
-        uri: 'https://www.youtube.com/embed/LDU_Txk06tM',
-        desc: 'Lorem ipsum dolor sit amet.',
-    },
-    {
-        name: 'Example',
-        uri: 'https://www.youtube.com/embed/LDU_Txk06tM',
-        desc: 'Lorem ipsum dolor sit amet.',
-    },
-    {
-        name: 'Example',
-        uri: 'https://www.youtube.com/embed/LDU_Txk06tM',
-        desc: 'Lorem ipsum dolor sit amet.',
-    },
-    {
-        name: 'Example',
-        uri: 'https://www.youtube.com/embed/LDU_Txk06tM',
-        desc: 'Lorem ipsum dolor sit amet.',
-    },
-    {
-        name: 'Example',
-        uri: 'https://www.youtube.com/embed/LDU_Txk06tM',
-        desc: 'Lorem ipsum dolor sit amet.',
+        name: 'Vid Divine',
+        uri: 'https://www.youtube.com/watch?v=4Gxx17ydXrU',
+        desc: 'Divine Video',
     }
 ];
