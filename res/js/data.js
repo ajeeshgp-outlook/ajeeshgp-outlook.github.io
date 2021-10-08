@@ -39,7 +39,7 @@ const images = [
 const videos = [
     {
         name: 'Vid Divine',
-        uri: 'https://www.youtube.com/watch?v=4Gxx17ydXrU',
+        uri: 'https://www.youtube.com/embed/4Gxx17ydXrU',
         desc: 'Divine Video',
     }
 ];
