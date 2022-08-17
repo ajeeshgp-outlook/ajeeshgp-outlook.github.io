@@ -1,38 +1,98 @@
 const images = [
     {
-        name: 'Image1',
+        name: 'Image',
         uri: 's1.jpg',
-        desc: 'Image1',
+        desc: 'Image',
     },
     {
-        name: 'Image2',
+        name: 'Image',
         uri: 's2.jpg',
-        desc: 'Image2',
+        desc: 'Image',
     },
     {
-        name: 'Image3',
+        name: 'Image',
         uri: 's3.jpg',
-        desc: 'Image3',
+        desc: 'Image',
     },
     {
-        name: 'Image4',
+        name: 'Image',
         uri: 's4.jpg',
-        desc: 'Image4',
+        desc: 'Image',
     },
     {
-        name: 'Image5',
+        name: 'Image',
         uri: 's5.jpg',
-        desc: 'Image5.',
+        desc: 'Image.',
     },
     {
-        name: 'Image6',
+        name: 'Image',
         uri: 's6.jpg',
-        desc: 'Image6.',
+        desc: 'Image.',
     },
     {
-        name: 'Image7',
+        name: 'Image',
         uri: 's7.jpg',
-        desc: 'Image7',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's8.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's9.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's10.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's11.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's12.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's13.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's14.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's15.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's16.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's17.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's18.jpeg',
+        desc: 'Image',
+    },
+    {
+        name: 'Image',
+        uri: 's19.jpeg',
+        desc: 'Image',
     },
 ];
 
